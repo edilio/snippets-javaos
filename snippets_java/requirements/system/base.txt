@@ -1,0 +1,4 @@
+libmysqlclient-dev
+python-dev
+gcc
+curl
